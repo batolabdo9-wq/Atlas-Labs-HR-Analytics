@@ -2,7 +2,7 @@
 
 An interactive **Power BI** dashboard that analyzes employee attrition, demographics, performance, and satisfaction at **Atlas Labs**, built on the Atlas Labs HR dataset from Kaggle.
 
-> 🔗 **Dataset:** [Atlas Labs HR Dataset on Kaggle](PUT_KAGGLE_LINK_HERE)
+> 🔗 **Dataset:** [Atlas Labs HR Dataset on Kaggle](https://www.kaggle.com/datasets/mahmoudemadabdallah/hr-analytics-employee-attrition-and-performance)
 
 ---
 
