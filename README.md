@@ -86,4 +86,4 @@ Atlas-Labs-HR-Analytics/
 
 ## 👤 Author
 
-**YOUR NAME** · [LinkedIn](PUT_LINK) · [GitHub](PUT_LINK)
+**YOUR NAME** · [LinkedIn](https://www.linkedin.com/in/batool-abd-alrzag-ab472424a/) · [GitHub](https://github.com/batolabdo9-wq)
